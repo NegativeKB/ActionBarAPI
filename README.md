@@ -14,11 +14,12 @@
 **Dependency (type latest version in for version)**
 
 ```
-<!--BasePlugin / CodeBase -->
+<!-- ActionBarAPI -->
 <dependency>
   <groupId>com.github.NegativeKB</groupId>
   <artifactId>ActionBarAPI</artifactId>
   <version>VERSION</version>
+  <scope>provided</scope>  
 </dependency>
 ```
 
