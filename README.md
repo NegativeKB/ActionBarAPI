@@ -17,8 +17,8 @@
 <!--BasePlugin / CodeBase -->
 <dependency>
   <groupId>com.github.NegativeKB</groupId>
-	<artifactId>ActionBarAPI</artifactId>
-	<version>VERSION</version>
+  <artifactId>ActionBarAPI</artifactId>
+  <version>VERSION</version>
 </dependency>
 ```
 
